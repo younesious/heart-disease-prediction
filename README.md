@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to contribute to this project by opening issues or pull requests.
 
-Well, like everyone who wants to enter data, they have a heart-disease-prediction. which is here in Python file format, but I presented it it in Jupyter format!
+Well, like everyone who wants to enter data, they have a heart-disease-prediction using ANN. which is here in Python file format, but I presented it it in Jupyter format!
